@@ -6,7 +6,7 @@ Hello, I am currently working on ReactJs, NodeJs, Express Js, Redux, etc. workin
 
 🖥️  See my portfolio at [My Portfolio Website](https://mspritee.github.io/Pritee-Badgujar/)
 
-📫 You can contact me at badgujarpriti5@gmail.com
+📫 You can contact me at badgujarpritee@gmail.com
 
 
 <!---
